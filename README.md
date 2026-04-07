@@ -14,7 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arun%20Rao-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-rao-3b0a86155/)
 [![Gmail](https://img.shields.io/badge/Gmail-iarunrao1.in@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:iarunrao1.in@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Arun12415-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arun12415)
-[![Instagram](https://img.shields.io/badge/https://www.instagram.com/devops.dude/-181717?style=flat-square&logo=github&logoColor=white)](https://www.instagram.com/devops.dude/)
 ![Profile Views](https://komarev.com/ghpvc/?username=Arun12415&style=flat-square&color=58A6FF)
 
 </div>
