@@ -23,11 +23,10 @@
 ## About Me
 ```yaml
 name        : Arun Kumar
-role        : DevOps Engineer & Cloud Architect
+role        : IT Engineer (Executive)
 location    : Kolkata, India
-experience  : 3+ years in IT Infrastructure & DevOps
-company     : Quess Corp Limited
-portfolio   : http://arun-cloud-portfolio-2026.s3-website.ap-south-1.amazonaws.com/
+experience  : 4+ years in IT Infrastructure & DevOps
+company     : Ambica Steel Limited
 
 focus:
   - CI/CD Pipeline Automation
