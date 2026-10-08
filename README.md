@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:58A6FF&height=120&section=header" />
 
 <h1>Arun Kumar</h1>
-<h3>DevOps Engineer · Cloud Architect · AWS · Kubernetes · Jenkins</h3>
+<h3>DevOps Engineer · IT Executive · AWS · Kubernetes · Jenkins</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&width=600&lines=DevOps+Engineer+%7C+3%2B+Years+Experience;CI%2FCD+%7C+Kubernetes+%7C+Docker+%7C+Jenkins;AWS+Infrastructure+%7C+IaC+%7C+GitOps;DevSecOps+%7C+AI-Powered+Automation" />
 
@@ -27,7 +27,6 @@ role        : IT Engineer (Executive)
 location    : Kolkata, India
 experience  : 4+ years in IT Infrastructure & DevOps
 company     : Ambica Steel Limited
-
 focus:
   - CI/CD Pipeline Automation
   - Cloud-Native Architecture on AWS
