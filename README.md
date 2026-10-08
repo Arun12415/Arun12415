@@ -6,7 +6,7 @@
 <h1>Arun Kumar</h1>
 <h3>DevOps Engineer · IT Executive · AWS · Kubernetes · Jenkins</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&width=600&lines=DevOps+Engineer+%7C+3%2B+Years+Experience;CI%2FCD+%7C+Kubernetes+%7C+Docker+%7C+Jenkins;AWS+Infrastructure+%7C+IaC+%7C+GitOps;DevSecOps+%7C+AI-Powered+Automation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&width=600&lines=DevOps+Engineer+%7C+4%2B+Years+Experience;CI%2FCD+%7C+Kubernetes+%7C+Docker+%7C+Jenkins;AWS+Infrastructure+%7C+IaC+%7C+GitOps;DevSecOps+%7C+AI-Powered+Automation" />
 
 <br/>
 
